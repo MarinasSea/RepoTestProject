@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7309b5f6-97a4-4e4e-b3b9-07b0aa32b2a1" name="Changes" comment="New file added" />
+    <list default="true" id="7309b5f6-97a4-4e4e-b3b9-07b0aa32b2a1" name="Changes" comment="Second file added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestOneClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestOneClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestTwoClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestTwoClass.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +49,46 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="TestNG.C:/Users/Маришка/IdeaProjects/RepoTestProject/testng_testtwo.xml">
+    <configuration name="C:/Users/Маришка/IdeaProjects/RepoTestProject/testng_testone.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RepoTestProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_testone.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Маришка/IdeaProjects/RepoTestProject/testng_testtwo.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RepoTestProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_testtwo.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOneClass" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RepoTestProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestOneClass" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Маришка/IdeaProjects/RepoTestProject/testng_testtwo.xml" />
+        <item itemvalue="TestNG.C:/Users/Маришка/IdeaProjects/RepoTestProject/testng_testone.xml" />
+        <item itemvalue="TestNG.TestOneClass" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,12 +105,20 @@
       <option name="project" value="LOCAL" />
       <updated>1677590689223</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second file added">
+      <created>1677591039618</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677591039618</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="TestOneClass added" />
     <MESSAGE value="New file added" />
-    <option name="LAST_COMMIT_MESSAGE" value="New file added" />
+    <MESSAGE value="Second file added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second file added" />
   </component>
 </project>
