@@ -55,19 +55,5 @@ public class TetsDriveerClass2 {
 */
 
 
-
-
-
-
-      //////////////////////////////////////////////////////////////////////////
-
-
-        /*  // (//h2[contains(text(),'Найбільш обговорювані товари')])[2]/following-sibling::ul/li//a[@class='tile__title']
-        for(WebElement el : list2)
-          System.out.println(el.findElement(By.xpath("//a[@class='tile__title']")).getText());
-        Thread.sleep(3000);
-        //driver.close();*/
-
-
     }
 }
